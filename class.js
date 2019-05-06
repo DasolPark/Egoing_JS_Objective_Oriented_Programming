@@ -1,5 +1,11 @@
-class Person {}
+class Person {
+  constructor(name, math, english) {
+    this.name = name;
+    this.math = math;
+    this.english = english;
+  }
+}
 
-var david = new Person();
+var dasol = new Person("david", 90, 99);
 
-console.log(david);
+console.log("DASOL", dasol);
