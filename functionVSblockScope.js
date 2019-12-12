@@ -17,3 +17,4 @@ console.log(scopeTestBlock());
 
 // var is function scope
 // let and const are block scope (ES6)
+// Source: https://medium.com/@josephcardillo/the-difference-between-function-and-block-scope-in-javascript-4296b2322abe
